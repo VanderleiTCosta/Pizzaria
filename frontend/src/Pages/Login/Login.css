@@ -1,0 +1,52 @@
+.container{
+    background-color: #ff7700;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    width: 276px;
+    height: 276px;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 40vh;
+    margin-top: -300px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 10px;
+}
+input{
+    height: 63px;
+    width: 318px;
+    border-radius: 8px;
+    outline: none;
+    margin: 8px;
+}
+input::placeholder{
+    text-align: center;
+}
+button{
+    height: 55px;
+    width: 159px;
+    margin-bottom: 28px;
+    border-radius: 8px;
+    outline: none;
+}
+.login h1{
+    color: white;
+    font-size: 28px;
+}
+.login h2{
+    color: white;
+    font-size: 18px;
+}
