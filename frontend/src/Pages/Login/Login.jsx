@@ -10,7 +10,7 @@ const Login = () => {
           <h1>ENTRAR</h1>
           <form>
               <input type="email" name="email" id="email" placeholder="Email"/>
-              <input type="password" name="password" id="password" placeholder="Senha"/>
+              <input type="password" name="password" id="password" placeholder="Digite sua Senha"/>
             <button type="submit">Entrar</button>
           </form>
           <h2>Não Cadastrado?<a href="#">Cadastre-se</a></h2>
