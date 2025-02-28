@@ -1,0 +1,12 @@
+.tela{
+    height: 100vh;
+    background-color: #ff7700;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    width: 276px;
+    height: 276px;
+}
