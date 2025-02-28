@@ -1,6 +1,5 @@
-import React from 'react'
-import './Home.css'
-import Header from '../../components/Header/Header'
+import './Home.css';
+import Header from '../../components/Header/Header';
 
 const Home = () => {
   return (
@@ -12,4 +11,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;

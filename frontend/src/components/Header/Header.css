@@ -1,5 +1,28 @@
 .container {
   background-color: #ff7700;
   height: 136px;
-  width: 100%
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.logo{
+  height: 60px;
+  width: 60px;
+}
+
+.infos h1 {
+  font-size: 22px;
+  color: white;
+}
+.infos h2 {
+  font-size: 18px;
+  color: white;
+}
+
+.cart{
+  width: 60px;
+  height: 30px;
 }
